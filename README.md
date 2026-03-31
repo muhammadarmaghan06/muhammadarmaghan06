@@ -33,4 +33,5 @@ I specialize in turning messy financial data into actionable insights and automa
 ---
 
 ## 📫 Let's Connect
-[LinkedIn] | [Fiverr/Upwork Portfolio]
+LinkedIn: www.linkedin.com/in/muhammad-armaghan-7650033b3
+fiverr:https://www.fiverr.com/users/iam_armaghan
