@@ -47,12 +47,12 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <b>📉 Business Risk Simulator</b><br />
-      <sub>Engineered Monte Carlo simulations for 500+ financial assets with 99.9% computational accuracy.</sub>
+      <b>📊 Business Data Refiner</b><br />
+      <sub>Built an automated Python solution to clean and format raw business datasets. It handles missing values and inconsistent data, turning messy Excel files into 'analysis-ready' reports.</sub>
     </td>
     <td align="center" width="50%">
-      <b>🤖 One-Click ETL Engine</b><br />
-      <sub>Reduced 20+ hours of weekly manual data processing into a 30-second automated Python script.</sub>
+      <b>🤖 💰 Market Trend Tracker</b><br />
+      <sub>Developed a tool to track and visualize price movements of financial assets, helping to understand market volatility and patterns through data visualization.</sub>
     </td>
   </tr>
 </table>
