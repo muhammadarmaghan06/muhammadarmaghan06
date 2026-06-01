@@ -1,164 +1,111 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=45&duration=3000&pause=800&color=FFB6C1&center=true&vCenter=true&width=600&lines=Muhammad+Armaghan;Data+Scientist;Automation+Architect;Business+Intelligence" alt="Animated Signature" />
+</div>
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Muhammad%20Armaghan&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=Data%20Scientist%20·%20Automation%20Architect%20·%20BI%20Engineer&descAlignY=60&descColor=ccbbff&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=✦%20Data%20✦%20Automation%20✦%20Intelligence%20✦&fontSize=40&fontAlignY=45&desc=Where%20Logic%20Dances%20with%20Data&descAlignY=65&animation=twinkling" width="100%">
+</p>
+
+---
+
+## ✧  About Me  ✧
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ4N3hyeTR2aGx4eGZ0dXJ1cGZvNmVyMTRmc2x5dWZ6eWZ3cWJxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="150" style="border-radius: 50%" />
+</div>
+
+<div align="center">
+  <p>
+    <i>✦ I don't just analyze data — I breathe life into it. ✦</i>
+  </p>
+  <p>
+    From scattered spreadsheets to strategic symphonies,<br>
+    I build bridges between <b>raw information</b> and <b>radiant insight</b>.
+  </p>
+</div>
+
+---
+
+## ✧  What I Offer  ✧
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🌸 Cost Savings</h3>
+        <sub>Automation scripts that work while you dream — eliminating hundreds of hours of manual effort.</sub>
+      </td>
+      <td align="center" width="33%">
+        <h3>🌙 Predictive Vision</h3>
+        <sub>Seeing beyond the horizon — uncovering hidden revenue streams and emerging trends.</sub>
+      </td>
+      <td align="center" width="33%">
+        <h3>✨ Elegant Reports</h3>
+        <sub>From chaos to clarity — interactive dashboards that speak the language of leaders.</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## ✧  My Creative Arsenal  ✧
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=4A4A4A" />
+  <img src="https://img.shields.io/badge/SQL-FFE4E1?style=for-the-badge&logo=postgresql&logoColor=4A4A4A" />
+  <img src="https://img.shields.io/badge/Power_BI-FFF0F5?style=for-the-badge&logo=powerbi&logoColor=4A4A4A" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-FFDAB9?style=for-the-badge&logo=scikit-learn&logoColor=4A4A4A" />
+  <img src="https://img.shields.io/badge/Pandas-FFE4B5?style=for-the-badge&logo=pandas&logoColor=4A4A4A" />
+  <img src="https://img.shields.io/badge/C++-FFDEAD?style=for-the-badge&logo=cplusplus&logoColor=4A4A4A" />
+</p>
+
+---
+
+## ✧  Stories I've Shaped  ✧
+
+<div align="center">
+  
+| 🌟 Project | 💫 Essence |
+|:---:|:---|
+| **Data Refiner** | *An automated Python solution that gently transforms messy business data into analysis-ready elegance.* |
+| **Market Compass** | *A visualization tool that turns market noise into understandable rhythms and patterns.* |
 
 </div>
 
 ---
 
+## ✧  My Journey  ✧
+
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║   Transforming raw data into radiant intelligence —     ║
-║        where logic meets elegance and systems breathe.   ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/iam_armaghan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-armaghan-7650033b3/)
-[![BZU](https://img.shields.io/badge/Data%20Science-BZU-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)](#)
-
+  <p>
+    🕊️ <b>The Foundation</b> — C++ and system architecture. I understand the quiet poetry of efficient code.<br><br>
+    🌿 <b>The Present</b> — Advancing my Data Science degree at BZU while crafting freelance solutions that matter.<br><br>
+  </p>
 </div>
 
 ---
 
-## ◈ &nbsp; About Me
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadarmaghan06&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e8e4f0" width="42%" />
-
-I don't just analyze data — I **breathe life into it**.
-
-From scattered spreadsheets to strategic decision engines, I build bridges between **raw information** and **radiant insight**. Every dataset tells a story; my work is to find it, shape it, and make it matter.
-
-- 🎓 &nbsp; Pursuing **Data Science** at Bahauddin Zakariya University
-- ⚙️ &nbsp; Freelancing: delivering **automation** and **BI** solutions
-- 🧱 &nbsp; Foundation built on **C++** and systems architecture
-- 🔭 &nbsp; Currently advancing skills in **ML** and **predictive modeling**
-- 📍 &nbsp; Based in **Multan, Punjab, Pakistan**
-
-<br clear="right"/>
-
----
-
-## ◈ &nbsp; What I Offer
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🟣 &nbsp; Cost-Crushing Automation
-Automation scripts that run silently while you sleep — eliminating hundreds of hours of manual, repetitive work with surgical precision.
-
-</td>
-<td width="33%" valign="top">
-
-### 🟢 &nbsp; Predictive Intelligence
-ML models that see beyond the horizon — uncovering hidden revenue streams, emerging trends, and risk signals before they surface.
-
-</td>
-<td width="33%" valign="top">
-
-### 🟡 &nbsp; Executive-Grade Dashboards
-From data chaos to commanding clarity — interactive Power BI and Python visuals that speak directly to decision-makers.
-
-</td>
-</tr>
-</table>
-
----
-
-## ◈ &nbsp; Creative Arsenal
+## ✧  GitHub Constellation  ✧
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-0d0d1a?style=for-the-badge&logo=python&logoColor=a78bfa)
-![SQL](https://img.shields.io/badge/SQL-0d0d1a?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
-![Power BI](https://img.shields.io/badge/Power%20BI-0d0d1a?style=for-the-badge&logo=powerbi&logoColor=a78bfa)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d0d1a?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa)
-![Pandas](https://img.shields.io/badge/Pandas-0d0d1a?style=for-the-badge&logo=pandas&logoColor=a78bfa)
-![NumPy](https://img.shields.io/badge/NumPy-0d0d1a?style=for-the-badge&logo=numpy&logoColor=a78bfa)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0d1a?style=for-the-badge&logo=plotly&logoColor=a78bfa)
-![C++](https://img.shields.io/badge/C++-0d0d1a?style=for-the-badge&logo=cplusplus&logoColor=a78bfa)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadarmaghan06&show_icons=true&theme=buefy&hide_border=true&bg_color=FFF5F5&title_color=FFB6C1&icon_color=FFB6C1" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadarmaghan06&theme=buefy&hide_border=true&background=FFF5F5&stroke=FFB6C1&ring=FFB6C1&fire=FFB6C1" width="48%" />
 </div>
 
 ---
 
-## ◈ &nbsp; Stories I've Shaped
+## ✧  Let's Create Magic  ✧
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `01` &nbsp; Data Refiner
-**`Automation · Python`**
-
-An automated pipeline that gently transforms messy, unstructured business data into analysis-ready elegance — clean, validated, and ready to speak. Saves significant manual processing time while ensuring consistency across data sources.
-
-</td>
-<td width="50%" valign="top">
-
-### `02` &nbsp; Market Compass
-**`Visualization · BI`**
-
-A visualization engine that turns market noise into understandable rhythms — revealing patterns and signals invisible to the naked eye. Built for analysts and executives who need clarity, not complexity.
-
-</td>
-</tr>
-</table>
-
----
-
-## ◈ &nbsp; My Journey
-
-```
-🧱  THE FOUNDATION ────────────────────────────────────────────────────
-    C++ and systems architecture. Built the bedrock of structured,
-    efficient code. Systems thinking became second nature.
-
-🌿  THE PRESENT ───────────────────────────────────────────────────────
-    Data Science degree at BZU, advancing ML fundamentals while
-    crafting freelance solutions that create real, measurable impact.
-
-🔭  THE HORIZON ───────────────────────────────────────────────────────
-    Building toward AI-powered systems that automate entire workflows —
-    where data becomes the engine of every decision.
-```
-
----
-
-## ◈ &nbsp; GitHub Constellation
+<p align="center">
+  <a href="https://www.fiverr.com/users/iam_armaghan" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-Collaborate-FFB6C1?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=4A4A4A" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-armaghan-7650033b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4A4A4A" />
+  </a>
+</p>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadarmaghan06&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e8e4f0&count_private=true" width="47%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadarmaghan06&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=a78bfa&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa&sideLabels=a78bfa" width="47%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadarmaghan06&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e8e4f0" width="40%" />
-
-</div>
-
----
-
-## ◈ &nbsp; Let's Create Magic Together
-
-<div align="center">
-
-> *"Data is not just numbers — it's the language of opportunity. Let me translate it for you."*
-
-<br/>
-
-[![Hire on Fiverr](https://img.shields.io/badge/🚀%20Hire%20on%20Fiverr-1DBF73?style=for-the-badge&logoColor=white)](https://www.fiverr.com/users/iam_armaghan)
-&nbsp;&nbsp;
-[![Connect on LinkedIn](https://img.shields.io/badge/🤝%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/muhammad-armaghan-7650033b3/)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&fontColor=a78bfa&animation=fadeIn" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=footer&text=✦%20Thank%20You%20✦&fontSize=20&fontAlignY=65&animation=twinkling" width="100%">
 </div>
